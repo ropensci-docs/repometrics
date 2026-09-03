@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "d0ff2e8cdaf04d97b05a495a8af82bc5ace10260",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2026-06-25T14:31:45Z",
+    "files": 6,
+    "merge": true,
+    "message": "Merge pull request #226 from ropensci-review-tools/badge\n\nupdate workflows and readme badge url"
+  },
+  "repo": "https://github.com/ropensci-review-tools/repometrics",
+  "pkg": "repometrics",
+  "time": "2026-09-03T16:09:59Z"
+}
