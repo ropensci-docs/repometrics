@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "577c8851bf01afd62d8449b4775609aa2a84ff15",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2026-10-09T10:20:41Z",
+    "files": 4,
+    "merge": true,
+    "message": "Merge pull request #228 from ropensci-review-tools/envvar\n\nchange envvar 'mpadge_local' -> 'rrt_test_all'"
+  },
+  "repo": "https://github.com/ropensci-review-tools/repometrics",
+  "pkg": "repometrics",
+  "time": "2026-10-10T19:35:40Z"
+}
