@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "63926e740a3248071db2218eb0e94e4b141dc2f2",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2026-11-12T13:38:34Z",
+    "files": 2,
+    "merge": false,
+    "message": "chore: streamline maintenance, update installation instructions\n"
+  },
+  "repo": "https://github.com/ropensci-review-tools/repometrics",
+  "pkg": "repometrics",
+  "time": "2026-11-12T14:54:49Z"
+}
